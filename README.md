@@ -1,1 +1,2 @@
-# mares
+# Vulcanizadora los Mares
+`$ ng serve --o`
